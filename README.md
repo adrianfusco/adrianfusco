@@ -2,6 +2,8 @@
 
 I've been working mainly with Perl and Python in Linux Systems environments. 
 I started contributing to the open source community :)
+
+You can also find me in LinkedIn :) -> https://www.linkedin.com/in/adrianfusco/
 ___
 
 #### ![Adrian Fusco GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianfusco&show_icons=true)
