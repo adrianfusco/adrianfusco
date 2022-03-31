@@ -10,7 +10,7 @@ I'm currently working with the Code Reliability Engineering team improving the C
 
 I started contributing to the open source community :)
 
-You can also find me in LinkedIn :) -> https://www.linkedin.com/in/adrianfusco/
+You can also find me in [LinkedIn](https://www.linkedin.com/in/adrianfusco/) :)
 
 I'm based in Galicia <3!
 ___
