@@ -4,7 +4,7 @@ I started to work in the computer science area three years ago. I did a system a
 
 I had more than two years working as Backend Developer. I started working mainly with the Perl language and after a big migration of technology and services I used PHP and Python where I had the opportunity of learn a lot and grow up.
 
-Six months ago I had a big change, I joined to Red Hat, I think the name can tell everything :). 
+One year ago I had a big change, I joined to Red Hat, I think the name can tell everything :). 
 
 I'm currently working with the Code Reliability Engineering team improving the CI systems (and other areas) of the Openstack infrastructure both upstream and downstream.
 
