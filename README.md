@@ -1,6 +1,11 @@
+Hey! :) I'm Adri, a Software Engineer with a strong DevOps background.
 
-I started to work in the computer science area three years ago. I did a system administrator professional development (CFGS in Spain) and after some time I changed to the development area. I realized that I can't stay just in one area, I like to do and learn a lot of different things.
+I started my journey as a web PHP Backend Developer working on several frameworks and then continued to the world of Linux services automation using Perl and Python.
 
-I had more than two years working as Backend Developer. I started working mainly with the Perl language and after a big migration of technology and services I used PHP and Python where I had the opportunity of learn a lot and grow up.
+As my career progressed, I transitioned into a software engineer, simultaneously working on diverse projects including automation, monitoring, CI/CD, testing among others.
 
-I'm currently working with the Code Reliability Engineering team improving the CI systems (and other areas) of the Openstack infrastructure both upstream and downstream.
+Beyond coding, I have a passion for traveling and food, and I love to immerse myself in different cultures. This enthusiasm extends to languages, as I fluently speak Español, English, Galego, Italiano, and now learning some Turkçe.
+
+In every project I work on, I bring not only technical proficiency but also a commitment speed and efficiency.
+
+Let's connect and explore new possibilities!
